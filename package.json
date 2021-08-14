@@ -1,6 +1,6 @@
 {
-  "name": "react-razzle-typescript-template",
-  "version": "1.0.0",
+  "name": "razzle-typescript-template",
+  "version": "1.0.2",
   "license": "MIT",
   "scripts": {
     "start": "razzle start",
